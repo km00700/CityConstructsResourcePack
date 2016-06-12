@@ -1,2 +1,2 @@
 # CityConstructsResourcePack
-location for resource pack hosting
+Location for resource pack hosting.
